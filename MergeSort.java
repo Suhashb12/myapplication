@@ -100,5 +100,8 @@ class MergeSort
 
 		System.out.println("\nSorted array");
 		printArray(arr);
+		printArray(arr);
+		printArray(arr);
+
 	}
 }
